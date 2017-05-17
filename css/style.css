@@ -45,42 +45,42 @@ html {
     }
 }
 .item:nth-child(1) {
-    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1495547115&di=0762ff5f29d192cab8bc3916246d6e00&imgtype=jpg&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fcb8065380cd7912347fa317da7345982b2b780a5.jpg) no-repeat center center fixed;
+    background: url(../img/1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 .item:nth-child(2) {
-    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1495547223&di=223af00a12969dac20aa773eab1a78e1&imgtype=jpg&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F5d6034a85edf8db1cffed96d0323dd54574e74e2.jpg) no-repeat center center fixed;
+    background: url(../img/2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 .item:nth-child(3) {
-    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1495547265&di=8717a864092c3434b2daf9e55fe53998&imgtype=jpg&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F7aec54e736d12f2e5e6d0a6945c2d5628535684b.jpg) no-repeat center center fixed;
+    background: url(../img/3.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 .item:nth-child(4) {
-    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1495547443&di=d7f6b5ffd381348c912a62da49f7bb76&imgtype=jpg&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fcdbf6c81800a19d8ac94230c39fa828ba61e4627.jpg) no-repeat center center fixed;
+    background: url(../img/4.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 .item:nth-child(5) {
-    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1495547612&di=26f509fbddebe806d129fc0e82debcb1&imgtype=jpg&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F574e9258d109b3de94bb4561c6bf6c81800a4cb6.jpg) no-repeat center center fixed;
+    background: url(../img/8.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 .item:nth-child(6) {
-    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b10000_10000&sec=1495547313&di=b0d087da9c4320976bc17e0c04b62b23&imgtype=jpg&src=http%3A%2F%2Fb.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Ff2deb48f8c5494ee0993ab1027f5e0fe99257e02.jpg) no-repeat center center fixed;
+    background: url(../img/14.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
